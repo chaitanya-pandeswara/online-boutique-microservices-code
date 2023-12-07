@@ -1,0 +1,112 @@
+{
+    "products": [
+        {
+            "id": "OLJCESPC7Z",
+            "name": "AWS DevOps",
+            "description": "Pass the AWS Certified DevOps Engineer Professional Certification (DOP-C02).",
+            "picture": "/static/img/products/aws-devops.jpg",
+            "priceUsd": {
+                "currencyCode": "USD",
+                "units": 149,
+                "nanos": 990000000
+            },
+            "categories": ["accessories"]
+        },
+        {
+            "id": "66VCHSJNUP",
+            "name": "Azure DevOps",
+            "description": "Create CI/CD pipelines for Java, .NET, NodeJs, Docker, Terraform, Kubernetes, SQL Server and ARM templates.",
+            "picture": "/static/img/products/azure-devops.jpg",
+            "priceUsd": {
+                "currencyCode": "USD",
+                "units": 149,
+                "nanos": 990000000
+            },
+            "categories": ["clothing", "tops"]
+        },
+        {
+            "id": "1YMWWN1N4O",
+            "name": "GCP Cloud",
+            "description": "Google Cloud for Beginners. Start Cloud Computing with GCP and become a Cloud Digital Leader.",
+            "picture": "/static/img/products/gcp-cloud.jpg",
+            "priceUsd": {
+                "currencyCode": "USD",
+                "units": 129,
+                "nanos": 990000000
+            },
+            "categories": ["accessories"]
+        },
+        {
+            "id": "L9ECAV7KIM",
+            "name": "GitLab",
+            "description": "Your journey to the modern CI/CD with Gitlab starts here!.",
+            "picture": "/static/img/products/gitlab.jpg",
+            "priceUsd": {
+                "currencyCode": "USD",
+                "units": 89,
+                "nanos": 990000000
+            },
+            "categories": ["footwear"]
+        },
+        {
+            "id": "2ZYFJ3GM2N",
+            "name": "Python",
+            "description": "Learn Python like a Professional Start from the basics and go all the way to creating your own applications and games.",
+            "picture": "/static/img/products/python.jpg",
+            "priceUsd": {
+                "currencyCode": "USD",
+                "units": 99,
+                "nanos": 990000000
+            },
+            "categories": ["hair", "beauty"]
+        },
+        {
+            "id": "0PUK6V6EV0",
+            "name": "Ansible",
+            "description": "This course introduces Ansible to the absolute beginner in DevOps.",
+            "picture": "/static/img/products/ansible.jpg",
+            "priceUsd": {
+                "currencyCode": "USD",
+                "units": 99,
+                "nanos": 990000000
+            },
+            "categories": ["decor", "home"]
+        },
+        {
+            "id": "LS4PSXUNUM",
+            "name": "Kubernetes",
+            "description": "Use Kubernetes to deploy a Microservice architecture.",
+            "picture": "/static/img/products/kubernetes.jpg",
+            "priceUsd": {
+                "currencyCode": "USD",
+                "units": 199,
+                "nanos": 990000000
+            },
+            "categories": ["kitchen"]
+        },
+        {
+            "id": "9SIQT8TOJO",
+            "name": "Linux Administration",
+            "description": "Linux Sysadmin for Beginners. Get the Linux skills to boost your career and get hired.",
+            "picture": "/static/img/products/linux-administration.jpg",
+            "priceUsd": {
+                "currencyCode": "USD",
+                "units": 99,
+                "nanos": 490000000
+            },
+            "categories": ["kitchen"]
+        },
+        {
+            "id": "6E92ZMYYFZ",
+            "name": "Data Analytics",
+            "description": "Begin data analytics by learning Excel, SQL, Python, Analytics & ML concepts from scratch.",
+            "picture": "/static/img/products/data-analytics.jpg",
+            "priceUsd": {
+                "currencyCode": "USD",
+                "units": 199,
+                "nanos": 990000000
+            },
+            "categories": ["kitchen"]
+        }
+    ]
+}
