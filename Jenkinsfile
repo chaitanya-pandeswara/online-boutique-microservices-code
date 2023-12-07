@@ -9,7 +9,7 @@ pipeline {
         
         stage('Git Checkout') {
             steps {
-                git branch: 'feature/SCRUM-51-Make-it-Local-Like-we-developed-it', credentialsId: 'github-chaitanya-pandeswara', url: 'https://github.com/chaitanya-pandeswara/online-boutique-microservices-code.git'
+                git branch: 'dev', credentialsId: 'github-chaitanya-pandeswara', url: 'https://github.com/chaitanya-pandeswara/online-boutique-microservices-code.git'
             }
         }
 
